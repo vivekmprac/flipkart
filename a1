@@ -1,2 +1,6 @@
-this is a1 file
+this is a1 file from master
+<<<<<<< HEAD
 updating a1 file from master
+=======
+updating a1 file from dev branch
+>>>>>>> dev
